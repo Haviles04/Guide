@@ -1,0 +1,174 @@
+html body {
+    height:100%
+}
+
+.colors{
+    border-radius: 15px;
+    margin: 0 auto 10px;
+    position: relative;
+    border: 5px solid grey;
+    width: 650px;
+    height:500px;
+    text-align: center;
+    background-color: darkgrey;
+}
+
+.fonts{
+    border-radius: 15px;
+    margin: 0 auto 10px;
+    position: relative;
+    border: 5px solid grey;
+    width: 650px;
+    height:600px; 
+    text-align: center;
+    background-color: darkgray;
+}
+
+
+.textStyles {
+    border-radius: 15px;
+    margin: 0 auto 10px;
+    position: relative;
+    border: 5px solid grey;
+    width: 650px;
+    height:500px; 
+    text-align: center;
+    background-color: darkgray;
+}
+
+.coolBlue {
+    transition: .04s;
+    border-radius: 15px;
+    margin: 0 auto;
+    width: 200px;
+    height: 75px;
+    color: white;
+    background-color: #2d5dcc;
+}
+
+.coolBlue p {
+    padding: 5px;
+}
+
+.coolBlue:hover{
+    transform: rotate(180deg);
+}
+
+.coolBlue:Active{
+    background-color: white;
+    color:#2d5dcc;
+}
+
+
+.pink {
+    transition: .04s;
+    border-radius: 15px;
+    margin: 0 auto;
+    width: 200px;
+    height: 75px;
+    color: black;
+    background-color:#d957d9;
+}
+
+.pink p{
+    padding: 5px;
+}
+
+.pink:hover{
+    transform: rotate(180deg);
+}
+
+.pink:Active{
+    background-color: white;
+    color: #d957d9;
+}
+
+
+.mintGreen {
+    transition: .04s;
+    border-radius: 15px;
+    margin: 0 auto;
+    width: 200px;
+    height: 75px;
+    color: black;
+    background-color:#4fe0b0;
+}
+
+.mintGreen p{
+    padding: 5px;
+}
+
+.mintGreen:hover{
+    transform: rotate(180deg);
+}
+
+.mintGreen:Active{
+    background-color: white;
+    color:#4fe0b0;
+}
+
+.beige {
+    transition: .04s;
+    border-radius: 15px;
+    margin: 0 auto;
+    width: 200px;
+    height: 75px;
+    color: black;
+    background-color:#efd9ca;
+}
+
+.beige p{
+    padding: 5px;
+}
+
+.beige:hover{
+    transform: rotate(180deg);
+}
+
+.beige:Active{
+    background-color: white;
+    color:#efd9ca;
+}
+
+
+.fatFace p {
+    font-family: 'Abril Fatface', cursive;
+}
+
+.fatface h2{
+    font-family: 'Abril Fatface', cursive;
+}
+
+.merriWeather  p {
+    font-family: 'Merriweather', serif;
+}
+
+.merriWeather h2{
+    font-family: 'Merriweather', serif;
+}
+
+.workSans p{
+    font-family: 'Work Sans', sans-serif;
+}
+
+.workSans h2{
+    font-family: 'Work Sans', sans-serif;
+}
+
+.bold {
+    font-weight:bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+h1{
+    text-align:center;
+}
+
+
+ul {
+    margin: 0 auto;
+    max-width: fit-content;
+}
